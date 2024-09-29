@@ -7,3 +7,4 @@
 "pip install requests lxml" - установка указаных пакетов
 "pip uninstall lxml -y" - удаление указаных пакетов
 "pip freeze > requirements.txt" - сохрание зависимостей
+"pip install -r requirements.txt" - установка зависимостей
